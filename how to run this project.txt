@@ -1,0 +1,2 @@
+1.put the GadgetSolution folder in C Drive
+2.online database link www.billosays.com/phpmyadmin ID : ugiclan_aviproj password=RP7TDWvU

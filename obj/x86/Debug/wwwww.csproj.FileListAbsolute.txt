@@ -1,0 +1,12 @@
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\bin\Debug\WindowsApplication.exe.config
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\bin\Debug\WindowsApplication.exe
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\bin\Debug\WindowsApplication.pdb
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\obj\x86\Debug\wwwww.csprojResolveAssemblyReference.cache
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\obj\x86\Debug\GUI.Device.resources
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\obj\x86\Debug\GUI.Home.resources
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\obj\x86\Debug\GUI.Login.resources
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\obj\x86\Debug\GUI.MainForm.resources
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\obj\x86\Debug\wwwww.GUI.Properties.Resources.resources
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\obj\x86\Debug\wwwww.csproj.GenerateResource.Cache
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Fahim Khan\Documents\Visual Studio 2013\Projects\Final Project\obj\x86\Debug\WindowsApplication.pdb
